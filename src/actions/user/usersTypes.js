@@ -1,0 +1,1 @@
+export const userListTypes = "USER_LIST_TYPES"
